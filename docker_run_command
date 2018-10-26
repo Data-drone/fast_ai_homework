@@ -1,0 +1,2 @@
+
+docker run -d -it -p 8989:8888 -v /home/brian/Workspace:/home/work --ipc=host floydhub/pytorch:1.0.0-gpu.cuda9cudnn7-py3.36
